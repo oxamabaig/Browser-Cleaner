@@ -16,3 +16,11 @@ npm install
 # Run the app
 npm start
 ```
+## To Package the Application
+
+```bash
+# install package electron-packager
+npm install -g electron-packager
+# make package
+electron-packager . --asar
+```

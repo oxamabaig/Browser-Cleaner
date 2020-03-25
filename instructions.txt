@@ -1,0 +1,21 @@
+How to run?
+- To run any script open up your command prompt in that directory where code is by *cmd*
+- And then python *scriptname.py* such as script name is testing.py then python testing.py
+- You can also run it directly by double clicking
+
+Accounts?
+- Make sure your accounts.txt,accounts1.txt or any file which contains the accounts are filled accordingly means: mail:password:ip
+- And no extra line is left in the respective accounts.txt
+- You can add any accounts.txt file to the code by *[,"accountx2.txt"]*
+
+
+Proxies?
+- You can pass ip with the account and for that you also need to un-comment one line from the code for that just get my help in the future when you needed my help!
+
+
+Playlist Link?
+- You need to go to the *[testing.py]* and there you need to change the link
+
+Timers?
+- Timers are given accordingly to operate for the bot
+- You can change timer let say one timer is between 30-40 seconds then you can change it to 100-150 seconds means one random number between 100-to-150 will be generated and bot will operate accordingly

@@ -1,10 +1,10 @@
-# Browser Cleaner
+#### Browser Cleaner
 
 <p align="center">
-   <img width="300" height="300" src="https://github.com/usama-akram-gt/Browser-Cleaner/tree/master/Demo/demo.gif" />
+   <img width="300" height="300" src="https://github.com/usama-akram-gt/Browser-Cleaner/tree/master/Demo/demo.gif"/>
 </p>
 
-**Clone and run for a quick way to see Application in action.**
+** Clone and run for a quick way to see Application in action. **
 
 ## To Use
 

@@ -3,8 +3,9 @@ A quick way to clear all the caches, cookies from all of your main browsers cove
 
 ** Clone and run for a quick way to see Application in action. **
 
-<img width="700" height="500" src="https://github.com/usama-akram-gt/Browser-Cleaner/tree/master/Demo/frame2.jpg"/>
-<img width="700" height="500" src="https://github.com/usama-akram-gt/Browser-Cleaner/tree/master/Demo/frame1.jpg"/>
+<img src="https://github.com/usama-akram-gt/Browser-Cleaner/tree/master/Demo/frame2.jpg"/>
+
+<img src="https://github.com/usama-akram-gt/Browser-Cleaner/tree/master/Demo/frame1.jpg"/>
 
 ## To Use
 
